@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   cart:
   - apiVersion: v2
-    appVersion: 1.1.0
-    created: "2026-04-05T05:18:55.144245482Z"
+    appVersion: 1.2.0
+    created: "2026-04-05T05:51:49.560402901Z"
     description: A Helm chart for Kubernetes
-    digest: fa6cc99322aab3faf5f36008bf5afc6365165687a158eeec34798883053088c7
+    digest: 7a26b5d1ffb07d876d5c8507c39eeee54bae485a937e5f6983a503364ead5cbe
     name: cart
     type: application
     urls:
@@ -13,13 +13,13 @@ entries:
     version: 0.1.0
   checkout:
   - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2026-04-05T05:18:55.144548094Z"
+    appVersion: 1.2.0
+    created: "2026-04-05T05:51:49.560656009Z"
     description: A Helm chart for Kubernetes
-    digest: dd531baf32217b7320b5d248143216eec023b17e75c9f4d2200997faa171f8b9
+    digest: 3c80cc2e19db1001e71205c3be23af2867c28b5ec29b304c952e1887a7925d16
     name: checkout
     type: application
     urls:
     - checkout-0.1.0.tgz
     version: 0.1.0
-generated: "2026-04-05T05:18:55.141518966Z"
+generated: "2026-04-05T05:51:49.560038728Z"
